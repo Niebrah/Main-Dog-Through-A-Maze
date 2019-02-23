@@ -1,6 +1,8 @@
 # Mutt-Through-A-Maze
 An animated dog will be manually navigated through a maze with food that can affect its health score and food score.
 //this is code I did in Eclipse IDE and pasted in separate repositories to represent different classes
+//I have separate packages for the images hand-drawn and uploaded to represent the dog avatar which I could not figure out how to 
+//show on github
 
 package main;
 import java.awt.BorderLayout;
